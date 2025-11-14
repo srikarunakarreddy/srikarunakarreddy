@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Sri!
 
-🎓 Master's student in Cybersecurity at Webster University
-💻 Exploring Python, SQL, and automation tools like n8n
-🔐 Passionate about data, security, and clean code 
+🎓 Master's student in Cybersecurity at Webster University  
+💻 Exploring Python, SQL, and automation tools like n8n  
+🔐 Passionate about data, security, and clean code  
+📈 Currently building CLI tools and learning project organization with GitHub  
 🧠 Always curious, always learning — from fundamentals to real-world applications
 
 ## 🔧 What I'm Working On
