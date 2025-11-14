@@ -4,7 +4,7 @@
 💻 Exploring Python, SQL, and automation tools like n8n  
 🔐 Passionate about data, security, and clean code  
 📈 Currently building CLI tools and learning project organization with GitHub  
-🧠 Always curious, always learning — from fundamentals to real-world applications
+🧠 Always curious and always learning from fundamentals to real-world applications
 
 ## 🔧 What I'm Working On
 - Python mini-projects (CLI tools, validators, automations)
